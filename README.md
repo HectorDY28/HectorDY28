@@ -36,14 +36,51 @@ Amante de Maquinas, Algoritmos e Malwares.
   <img src="https://img.shields.io/badge/HolyC-0A0A0A?style=for-the-badge&logo=templeos&logoColor=white" />
 </p>
 
+<table>
+<tr>
+<td valign="top">
+
 | Linguagem | Utilidades |
 | :--- | :--- |
-| **C** | Meu xodô, primeiro contato com programação |
-| **C++** | Manual de avião, mas é interessante |
-| **Rust** | O compilador que me odeia |
-| **Zig** | Uso as vezes pra testar uns negócios ai |
-| **Assembly** | x86_64 / AArch64. Quando C já não tanca |
-| **HolyC** | Só pra brincar |
+| C | Meu xodó, primeiro contato com programação |
+| C++ | Manual de avião, mas é interessante |
+| Rust | O compilador que me odeia |
+| Zig | Uso as vezes pra testar uns negócios ai |
+| Assembly | x86_64 / AArch64. Quando C já não tanca |
+| HolyC | Só pra brincar |
+| Python | Já usei para controlar um Packet Sniffer |
+| Java | Logo bonita, mas é cheia de fru-fru |
+| JavaScript | Muito automatizada e enjoadinha |
+| TypeScript | É JS com grife e crise de identidade |
+
+</td>
+<td valign="top" style="padding-left: 40px;">
+
+<pre style="font-size: 11px; line-height: 11px; margin: 0;">
+            .------.____
+         .-'       \ ___)
+      .-'         \\\
+   .-'        ___  \\)
+.-'          /  (\  |)
+         __  \  ( | |
+        /  \  \__'| |
+       /    \____).-'
+     .'       /   |
+    /     .  /    |
+  .'     / \/     |
+ /      /   \     |
+       /    /    _|_
+       \   /    /\ /\
+        \ /    /__v__\
+         '    |       |
+              |     .#|
+              |#.  .##|
+              |#######|
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
