@@ -25,6 +25,7 @@ Amante de Maquinas, Algoritmos e Malwares.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,rust,zig" />
+  <img src="./assets/asm.png" width="48" height="48" style="vertical-align: middle;" />
 </p>
 
 <p align="center">
