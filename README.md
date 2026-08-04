@@ -1,14 +1,4 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="kernel dump"/>
-  <!-- TROQUE PELA SUA IMAGEM: faça upload do banner gerado no repo e troque o link acima -->
-</p>
 
-```
-┌─[0x00@void]─[~/kernel]─[03:47:12]─[pts/0]
-└──╼ $ whoami --verbose
-> MALWARE_ANALYST // prodigio_autodidata // binary_exploiter // low_level_hacker
-> STATUS: [ RING_0 ] | UPTIME: 3d 06h 14m | MODE: nocturnal_build
 ```
 
 ### [0x01] — IDENTITY_DUMP
