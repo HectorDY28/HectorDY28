@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meu perfil ai
+# Eu <3
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=C+%7C+C%2B%2B+%7C+Rust+%7C+Zig+%7C+Assembly+%7C+HolyC)](https://git.io/typing-svg)
 
