@@ -51,7 +51,7 @@ Amante de Maquinas, Algoritmos e Malwares.
 | Python | Já usei para controlar um Packet Sniffer |
 | Java | Logo bonita, mas é cheia de fru-fru |
 | JavaScript | Muito automatizada e enjoadinha |
-| TypeScript | É JS com grife e crise de identidade |
+| TypeScript | É JS com grife |
 
 </td>
 <td valign="top" style="padding-left: 40px;">
