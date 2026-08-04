@@ -11,17 +11,18 @@
 <table><tr><td>
 
 ```ansi
- [0;31m╭─ [0m [0;37m● [0m [0;33m● [0m [0;32m● [0m [0;31m ── root@void:~# /proc/self/status ──────────────────────────────────╮ [0m
- [0;31m│ [0m  [0;31mroot@void:~# [0m cat /proc/self/status | grep -i hector
- [0;31m│ [0m
- [0;31m│ [0m Name:   Hector
- [0;31m│ [0m State:  R (running) - 03:17 AM [ uptime: 47h:12m ]
- [0;31m│ [0m VmLck:  0 kB  [0;90m[ SWAPPING DISABLED - mlockall(MCL_FUTURE) ] [0m
- [0;31m│ [0m CapEff: 0000003fffffffff  [0;90m[ CAP_SYS_ADMIN | CAP_SYS_PTRACE | CAP_SYS_RAWIO ] [0m
- [0;31m│ [0m
- [0;31m│ [0m  [0;31m[ CRITICAL ] [0m NO HIGH-LEVEL ABSTRACTIONS BEYOND THIS POINT.
- [0;31m│ [0m  [0;31m[ WARNING ] [0m  YOU ARE ENTERING PRIVILEGED EXECUTION MODE.
- [0;31m╰───────────────────────────────────────────────────────────────────────╯ [0m
+╭─ ●●● ── root@void:~# /proc/self/status ──────────────────────────────────╮
+│ root@void:~# cat /proc/self/status | grep -i hector                      │
+│                                                                          │
+│ Name: Hector                                                             │
+│ State: R (running) - 03:17 AM [ uptime: 47h:12m ]                        │
+│ VmLck: 0 kB [ SWAPPING DISABLED - mlockall(MCL_FUTURE) ]                 │
+│ CapEff: 000003fffffff [ CAP_SYS_ADMIN | CAP_SYS_PTRACE | CAP_SYS_RAWIO ] │
+│                                                                          │
+│ [ CRITICAL ] NO HIGH-LEVEL ABSTRACTIONS BEYOND THIS POINT.               │
+│ [ WARNING ] YOU ARE ENTERING PRIVILEGED EXECUTION MODE.                  │
+╰──────────────────────────────────────────────────────────────────────────╯
+
 ```
 
 </td></tr></table>
